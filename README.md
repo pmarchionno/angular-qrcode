@@ -33,3 +33,6 @@ Podemos cambiar el color del código QR especificando los colores en el objeto M
 
 ### Preview
 <img src="./src/assets/img/preview.png" width="472"/>
+
+
+#### Fuente: https://medium.com/nerd-for-tech/how-to-generate-qr-code-in-java-spring-boot-134adb81f10d
